@@ -1,0 +1,6 @@
+{
+  "name": "Media Pembelajaran Bilangan Bulat",
+  "description": "Media pembelajaran interaktif Matematika Kelas 7 Fase D Bab 1: Bilangan Bulat oleh Suwarto, S.Pd",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
